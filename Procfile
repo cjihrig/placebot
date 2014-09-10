@@ -1,0 +1,1 @@
+web: node index "http://placehold.it/{width}x{height}"

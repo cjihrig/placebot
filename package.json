@@ -1,0 +1,17 @@
+{
+  "name": "placebot",
+  "version": "0.1.0",
+  "description": "slack bot that adds placeholder images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin J. Ihrig <cjihrig@gmail.com> (http://www.cjihrig.com/)",
+  "license": "MIT",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "hapi": "~6.8.0"
+  }
+}
