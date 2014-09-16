@@ -1,5 +1,7 @@
 # placebot
 
+[![Current Version](https://img.shields.io/npm/v/placebot.svg)](https://www.npmjs.org/package/placebot)
+
 Slack bot for inserting placeholder images.
 
 ## How to Run
